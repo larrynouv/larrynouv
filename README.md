@@ -5,7 +5,7 @@
   - [Creating a Live SOC / Honeynet in Azure] {https://github.com/larrynouv/HoneyNet-and-Cloud-SOC}
 
 <h2>Connect with me:</h2>
-[LinkedIn]: https://www.linkedin.com/in/larrynouv/
+[LinkedIn]: <a href="https://www.linkedin.com/in/larrynouv/">https://www.linkedin.com/in/larrynouv/</a>
 
 
 
