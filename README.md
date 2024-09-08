@@ -5,7 +5,7 @@
   - [Creating a Live SOC / Honeynet in Azure] {https://github.com/larrynouv/HoneyNet-and-Cloud-SOC}
 
 <h2>In Progress</h2>
-- Labs built in GNS3 to reinforce and further my knowledge in Networking
+- Labs built in GNS3 to reinforce and further my knowledge in Networking<br>
 - Exploring the use of Virtual Machines with hosted hypervisers such as VirtualBox 
 
 <h2><a href="https://www.linkedin.com/in/larrynouv" target="_blank">Connect with me on LinkedIn</a></h2>
