@@ -4,9 +4,7 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure] {https://github.com/larrynouv/HoneyNet-and-Cloud-SOC}
 
-<h2>Connect with me:</h2>
-[LinkedIn]: <a href="https://www.linkedin.com/in/larrynouv/">https://www.linkedin.com/in/larrynouv/</a>
-
+<h2><a href="https://www.linkedin.com/in/larrynouv" target="_blank">Connect with me on LinkedIn</a></h2>
 
 
 
